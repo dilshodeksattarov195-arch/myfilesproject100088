@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsvncrypt",
+        "uuid": 467984,
+        "checksum": "3hk9f"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
